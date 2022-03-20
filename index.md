@@ -11,7 +11,7 @@
 
 # Generated Links
 
-- [Installer une font](Installer_une_font.md)
+- [Installer une font](installer_une_font.md)
 - [Diary](diary/diary.md)
 - [Fonts](linux.md)
 - [Nerd Fonts](nerd_fonts.md)
