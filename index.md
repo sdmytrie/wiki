@@ -1,8 +1,3 @@
-# Konwledge Base
-
-* [KB - linux](kb/linux.md)
-
-
 ## Tasks | +PENDING -meeting
 
 
