@@ -1,4 +1,5 @@
 ## Tasks | +PENDING -meeting
+* [ ] FFHM-52 - Automatiser la réaffectation des résultats lors de compétitions par équipe  #9570d2ac
 
 
 ## Personal Tasks | +PENDING +home

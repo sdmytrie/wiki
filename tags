@@ -11,16 +11,14 @@
 !_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210905.0/
 2022	diary/diary.md	/^## 2022$/;"	s	chapter:Diary
 Diary	diary/diary.md	/^# Diary$/;"	c
-Fonts	kb/linux.md	/^# Fonts$/;"	c
 Generated Links	index.md	/^# Generated Links$/;"	c
-Generated Tags	index.md	/^# Generated Tags$/;"	c
-Installer une font	Installer_une_font.md	/^# Installer une font$/;"	c
-Konwledge Base	index.md	/^# Konwledge Base$/;"	c
-Links	Installer_une_font.md	/^# Links$/;"	c
+Installer une font	installer_une_font.md	/^# Installer une font$/;"	c
+Links	installer_une_font.md	/^# Links$/;"	c
 Links	nerd_fonts.md	/^# Links$/;"	c
 March	diary/diary.md	/^### March$/;"	S	section:Diary""2022
-Meetings | +meeting	index.md	/^## Meetings | +meeting$/;"	s	chapter:Konwledge Base
+Meetings | +meeting	index.md	/^## Meetings | +meeting$/;"	s
 Nerd Fonts	nerd_fonts.md	/^# Nerd Fonts$/;"	c
-Personal Tasks | +PENDING +home	index.md	/^## Personal Tasks | +PENDING +home$/;"	s	chapter:Konwledge Base
+Personal Tasks | +PENDING +home	index.md	/^## Personal Tasks | +PENDING +home$/;"	s
 System	diary/2022-03-14.md	/^# System$/;"	c
-Tasks | +PENDING -meeting	index.md	/^## Tasks | +PENDING -meeting$/;"	s	chapter:Konwledge Base
+Tasks | +PENDING -meeting	index.md	/^## Tasks | +PENDING -meeting$/;"	s
+Update Fonts	update_fonts.md	/^# Update Fonts$/;"	c
