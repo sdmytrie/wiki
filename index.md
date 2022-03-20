@@ -13,6 +13,5 @@
 
 - [Installer une font](installer_une_font.md)
 - [Diary](diary/diary.md)
-- [Fonts](linux.md)
 - [Nerd Fonts](nerd_fonts.md)
 - [Update Fonts](update_fonts.md)
