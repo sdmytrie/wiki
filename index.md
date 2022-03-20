@@ -19,6 +19,7 @@
 - [Diary](diary/diary.md)
 - [Konwledge Base](index.md)
 - [Fonts](kb/linux.md)
+- [Nerd Fonts](nerd_fonts)
 
 
 # Generated Tags
