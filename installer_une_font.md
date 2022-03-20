@@ -6,5 +6,5 @@ Dézipper sous ````.local/share/font````
 
 # Links
 
-- [Fonts](kb/linux.md)
+- [Update Fonts](update_fonts.md)
 
