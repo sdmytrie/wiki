@@ -1,6 +1,6 @@
 ## Tasks FFHM | +PENDING -meeting +ffhm
 * [ ] FFHM-52 - Automatiser la réaffectation des résultats lors de compétitions par équipe  #9570d2ac
-[Notes](#9570d2ac)
+[Notes](#notes-9570d2ac)
 
 
 ## Personal Tasks | +PENDING +home -ffhm
@@ -19,4 +19,4 @@
 - [Update Fonts](update_fonts.md)
 
 
-## FFHM-52 - Automatiser la réaffectation des résultats lors de compétitions par équipe  #9570d2ac
+## notes-9570d2ac
