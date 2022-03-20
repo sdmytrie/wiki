@@ -15,7 +15,7 @@
 
 # Generated Links
 
-- [Installer une font](Installer une font.md)
+- [Installer une font](Installer_une_font.md)
 - [Diary](diary/diary.md)
 - [Konwledge Base](index.md)
 - [Fonts](kb/linux.md)
