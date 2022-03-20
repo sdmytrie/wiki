@@ -15,3 +15,4 @@
 - [Diary](diary/diary.md)
 - [Fonts](linux.md)
 - [Nerd Fonts](nerd_fonts.md)
+- [Update Fonts](update_fonts.md)
