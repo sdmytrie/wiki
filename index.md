@@ -19,4 +19,4 @@
 - [Update Fonts](update_fonts.md)
 
 
-## #9570d2ac
+# * [ ] FFHM-52 - Automatiser la réaffectation des résultats lors de compétitions par équipe  #9570d2ac
