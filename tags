@@ -18,7 +18,8 @@ Links	nerd_fonts.md	/^# Links$/;"	c
 March	diary/diary.md	/^### March$/;"	S	section:Diary""2022
 Meetings | +meeting	index.md	/^## Meetings | +meeting$/;"	s
 Nerd Fonts	nerd_fonts.md	/^# Nerd Fonts$/;"	c
-Personal Tasks | +PENDING +home	index.md	/^## Personal Tasks | +PENDING +home$/;"	s
+Notes	index.md	/^## Notes$/;"	s	chapter:Generated Links
+Personal Tasks | +PENDING +home -ffhm	index.md	/^## Personal Tasks | +PENDING +home -ffhm$/;"	s
 System	diary/2022-03-14.md	/^# System$/;"	c
-Tasks | +PENDING -meeting	index.md	/^## Tasks | +PENDING -meeting$/;"	s
+Tasks FFHM | +PENDING -meeting +ffhm	index.md	/^## Tasks FFHM | +PENDING -meeting +ffhm$/;"	s
 Update Fonts	update_fonts.md	/^# Update Fonts$/;"	c
