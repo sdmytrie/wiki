@@ -1,2 +1,6 @@
-# Régalge écran
+# Réglage écran
 
+## Détection
+```
+arandr
+```
