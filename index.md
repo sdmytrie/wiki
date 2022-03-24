@@ -19,7 +19,7 @@
 - [Diary](diary/diary.md)
 - [Nerd Fonts](nerd_fonts.md)
 - [Update Fonts](update_fonts.md)
-- Réglage écran
+- [Réglage écran](reglage_ecran.md)
 
 
 ## Notes
