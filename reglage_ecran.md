@@ -4,3 +4,5 @@
 ```
 arandr
 ```
+
+## Affichage sur deux écrans
