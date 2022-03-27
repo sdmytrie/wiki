@@ -16,5 +16,7 @@
 *   Edit `openvpn.conf` add `auth-user-pass auth`
 *   Create file `auth` :
 
+    <!---->
+    
     username
     password
