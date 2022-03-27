@@ -2,6 +2,4 @@
 
 ## Add config
 
-```
- nmcli connection import type openvpn file ./openvpn.ovpn
-```
+     nmcli connection import type openvpn file ./openvpn.ovpn
