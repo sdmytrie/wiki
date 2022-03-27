@@ -1,4 +1,4 @@
-# HOWTO
+# OpenVPN
 
 ## Add config
 
