@@ -1,4 +1,4 @@
-:ngrx:angular:
+:ngrx:angular:json-server:
 
 # NGRX Initial Setup
 
