@@ -10,6 +10,10 @@
 
 Create `json.db` in the root folder.
 
+* Install concurently
+
+
+
 *   Launch Angular server and json-server, change **package.json** :
 
 <!---->
