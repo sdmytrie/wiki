@@ -2,4 +2,4 @@
 
 ## NGRX
 
-*   initial setup
+*   [initial setup](angular_ngrx.md)
