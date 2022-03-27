@@ -15,13 +15,13 @@
 
 # Generated Links
 
+- [Angular - Ngrx](angular_ngrx.md)
 - [Installer une font](installer_une_font.md)
 - [Diary](diary/diary.md)
 - [Nerd Fonts](nerd_fonts.md)
 - [Update Fonts](update_fonts.md)
 - [Réglage écran](reglage_ecran.md)
 - [OpenVPN](OpenVPN.md)
-- [Angular - Ngrx](angular_ngrx.md)
 
 
 ## Notes
