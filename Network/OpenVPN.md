@@ -1,3 +1,4 @@
+:openvpn:nmcli:
 # OpenVPN
 
 ## Add config
