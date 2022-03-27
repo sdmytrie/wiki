@@ -22,6 +22,7 @@
 - [Update Fonts](update_fonts.md)
 - [Réglage écran](reglage_ecran.md)
 - [OpenVPN](OpenVPN.md)
+- [Bootstrap](Bootstrap.md)
 
 
 ## Notes
