@@ -15,3 +15,5 @@ npm install concurrently
 ```
 
 ``` "start": "concurrently \"ng server\" \"json-server --watch db.json\" " ```
+
+* 
