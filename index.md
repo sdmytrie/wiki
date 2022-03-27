@@ -11,7 +11,7 @@
 ## Meetings | +meeting
 
 
-# Generated Links
+# Links
 
 - [Angular](Angular/index.md)
 - [Installer une font](installer_une_font.md)
