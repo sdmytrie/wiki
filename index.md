@@ -21,6 +21,7 @@
 - [Update Fonts](update_fonts.md)
 - [Réglage écran](reglage_ecran.md)
 - [OpenVPN](OpenVPN.md)
+- [Angular - Ngrx](angular_ngrx.md)
 
 
 ## Notes
