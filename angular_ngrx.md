@@ -6,3 +6,4 @@
 ```
 npm install json-server
 ```
+Create ````json.db```` in the root folder.
