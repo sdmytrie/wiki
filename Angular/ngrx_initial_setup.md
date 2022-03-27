@@ -1,4 +1,4 @@
-# HOWTO
+# NGRX Initial Setup
 
 ## Initial Setup
 
