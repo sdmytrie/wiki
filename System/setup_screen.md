@@ -1,4 +1,4 @@
-# Réglage écran
+# Setup screen
 
 ## Détection
 ```
