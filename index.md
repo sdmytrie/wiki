@@ -17,7 +17,6 @@
 - [System](System/index.md)
 - [Diary](diary/diary.md)
 - [OpenVPN](OpenVPN.md)
-- [Bootstrap](Bootstrap.md)
 - [Web](Web/index.md)
 
 
