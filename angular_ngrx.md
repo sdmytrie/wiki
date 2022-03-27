@@ -16,6 +16,7 @@ Create `json.db` in the root folder.
 
     npm install concurrently
 
+
     "start": "concurrently \"ng server\" \"json-server --watch db.json\" "`
 
 *
