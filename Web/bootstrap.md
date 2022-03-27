@@ -1,4 +1,4 @@
-# HOWTO
+# Bootstrap
 
 ## Load from @
 
