@@ -16,7 +16,6 @@
 # Generated Links
 
 - [Angular](Angular/index.md)
-- [Angular - Ngrx](angular_ngrx.md)
 - [Installer une font](installer_une_font.md)
 - [Diary](diary/diary.md)
 - [Nerd Fonts](nerd_fonts.md)
