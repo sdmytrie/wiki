@@ -1,3 +1,4 @@
+:screen:display:
 # Setup screen
 
 ## Détection
