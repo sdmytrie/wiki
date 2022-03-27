@@ -6,4 +6,4 @@
 
 *   Download from [Nerd Fonts](https://www.nerdfonts.com/)
 *   Unzip to `.local/share/font`
-* Update cache `fc-cache -f -v`
+*   Update cache `fc-cache -f -v`
