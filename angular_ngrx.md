@@ -1,3 +1,3 @@
 # HOWTO
 
-## Configuration
+## Initial Setup
