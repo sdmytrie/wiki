@@ -16,7 +16,6 @@
 - [Angular](Angular/index.md)
 - [System](System/index.md)
 - [Diary](diary/diary.md)
-- [OpenVPN](OpenVPN.md)
 - [Web](Web/index.md)
 
 
