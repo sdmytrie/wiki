@@ -1,2 +1,3 @@
 # Contents
-* [OpenVPN](OpenVPN.md)
+
+*   [OpenVPN](OpenVPN.md)
