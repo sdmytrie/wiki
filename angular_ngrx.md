@@ -2,18 +2,20 @@
 
 ## Initial Setup
 
-* Json server
-```
-npm install json-server
-```
-Create ````json.db```` in the root folder.
+*   Json server
 
-* Launch Angular server and json-server, change **package.json** :
+<!---->
 
-```
-npm install concurrently
-```
+    npm install json-server
 
-``` "start": "concurrently \"ng server\" \"json-server --watch db.json\" " ```
+Create `json.db` in the root folder.
 
-* 
+*   Launch Angular server and json-server, change **package.json** :
+
+<!---->
+
+    npm install concurrently
+
+`"start": "concurrently \"ng server\" \"json-server --watch db.json\" "`
+
+*
