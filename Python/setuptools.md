@@ -2,6 +2,8 @@
 
 # Setupetools
 
+Fichier `setup.cfg`
+
 <!---->
 
     [metadata]
