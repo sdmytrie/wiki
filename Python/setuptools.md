@@ -27,11 +27,14 @@ Fichier `setup.py`
 
 <!---->
 
-    from setuptools import setup
-    setup()
-    
-    
+```
+from setuptools import setup
+setup()
+
+```
+
 Install package
 
 <!---->
+
     pipenv install -e .
