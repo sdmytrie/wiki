@@ -1,6 +1,6 @@
-:settools:package:
+:setuptools:package:
 
-# Setupetools
+# Setuptools
 
 Fichier `setup.cfg`
 
