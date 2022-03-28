@@ -23,3 +23,8 @@ Fichier `setup.cfg`
       
       
 Fichier `setup.py`
+
+<!---->
+
+    from setuptools import setup
+    setup()
