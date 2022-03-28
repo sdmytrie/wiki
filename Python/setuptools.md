@@ -3,7 +3,8 @@
 # Setupetools
 
 <!---->
-[metadata]
+    
+    [metadata]
     name = Labo
     author = Serge D.
     description = Only for testing
