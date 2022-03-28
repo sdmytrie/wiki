@@ -4,8 +4,6 @@
 
 Fichier `setup.cfg`
 
-<!---->
-
 ```
 [metadata]
 name = Labo
