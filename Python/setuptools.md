@@ -20,3 +20,6 @@ Fichier `setup.cfg`
     [options.entry_points]
     console_scripts = 
       labo = main:main
+      
+      
+Fichier `setup.py`
