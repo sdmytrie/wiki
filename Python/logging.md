@@ -11,4 +11,4 @@
       a = [1, 2, 3]
       val = a[4]
     except IndexError as e:
-      logginf.error(e, exc_info=true)
+      logginf.error(e, exc_info=True)
