@@ -22,3 +22,13 @@
 <!---->
 
     "start": "concurrently "ng server" "json-server --watch db.json" "\`
+
+*   Create mdoules and compoents
+
+<!---->
+
+```
+ng g c component ...
+ng g m module ...
+
+```
