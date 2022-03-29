@@ -32,3 +32,6 @@ ng g c component ...
 ng g m module ...
 
 ```
+
+* configure routes
+* 
