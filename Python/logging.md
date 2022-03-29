@@ -2,7 +2,7 @@
 
 # Logging
 
-## Logginf with stacktrace
+## Logging with stacktrace
 
 <!---->
 
@@ -11,4 +11,16 @@
       a = [1, 2, 3]
       val = a[4]
     except IndexError as e:
-      logginf.error(e, exc_info=True)
+      logging.error(e, exc_info=True)
+      
+
+Without knowing error
+
+<!---->
+
+    import traceback
+    
+    ...
+    
+    except:
+    
