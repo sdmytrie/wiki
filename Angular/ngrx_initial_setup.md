@@ -36,4 +36,4 @@ ng g m module ...
 ```
 
 *   configure routes
-*
+* Install all packages
