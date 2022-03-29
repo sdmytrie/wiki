@@ -36,7 +36,7 @@ ng g m module ...
 ```
 
 *   configure routes
-* Create UX
+*   Create UX
 *   Install all packages
 
 <!---->
