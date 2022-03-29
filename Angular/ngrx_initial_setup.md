@@ -33,5 +33,5 @@ ng g m module ...
 
 ```
 
-* configure routes
-* 
+*   configure routes
+*
