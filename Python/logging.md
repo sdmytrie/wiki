@@ -23,4 +23,4 @@ Without knowing error
     ...
     
     except:
-    
+      logging.error("The error is: %s", traceback.format_exc()) 
