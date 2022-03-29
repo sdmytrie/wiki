@@ -40,4 +40,4 @@ ng g m module ...
 
 <!---->
 
-  npm install @ngrx/store @ngrx/effects @ngrx/entity @ngrx/store-devtools @ngrx/router-store    
+    npm install @ngrx/store @ngrx/effects @ngrx/entity @ngrx/store-devtools @ngrx/router-store
