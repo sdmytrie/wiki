@@ -2,7 +2,7 @@
 
 # NGRX Initial Setup
 
-* [Angular Developper](https://github.com/angulardeveloper-io/ngrx-store-app)
+*   [Angular Developper](https://github.com/angulardeveloper-io/ngrx-store-app)
 
 ## Initial Setup
 
@@ -36,4 +36,8 @@ ng g m module ...
 ```
 
 *   configure routes
-* Install all packages
+*   Install all packages
+
+<!---->
+
+  npm install @ngrx/store @ngrx/effects @ngrx/entity @ngrx/store-devtools @ngrx/router-store    
