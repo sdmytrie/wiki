@@ -22,14 +22,3 @@
 
 
 ## Notes
- yop
- kdsfsdf
- sdfsdf
- 
-
-ID Age  Project Tags Description                                            Urg
--- ---- ------- ---- ------------------------------------------------------ ----
- 1 9d   FFHM    ffhm FFHM-52 - Automatiser la réaffectation des résultats   1.85
-                     lors de compétitions par équipe
-
-1 task
