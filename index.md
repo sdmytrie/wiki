@@ -23,8 +23,7 @@
 
 ## Notes
 
-ceci est un test  
-sqdsdqs
-qsdqsdqs
+ceci est un test
 encore un test
+toujours
 
